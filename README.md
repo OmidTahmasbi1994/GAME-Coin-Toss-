@@ -5,7 +5,7 @@ import random
 print('Heads = 0    &   Tails = 1')
 
 n = random.randrange(0,1)
-f='no'
+
 
 a=int(input('Your Choice is: '))
 
